@@ -1,0 +1,2677 @@
+/* screen - desktop-1 */
+
+.desktop-1 {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    height: 4043px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .desktop-1 .overlap-group33 {
+    height: 3950px;
+    margin-left: -8px;
+    margin-top: 93px;
+    position: relative;
+    width: 2468px;
+    z-index: 1;
+  }
+  
+  .desktop-1 .rectangle-106 {
+    height: 959px;
+    left: 8px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .desktop-1 .rectangle-113 {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.71) 0%, rgba(0, 0, 0, 0.43) 47.17%, rgba(0, 0, 0, 0) 100%);
+    height: 959px;
+    left: 8px;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .desktop-1 .rectangle-107 {
+    height: 812px;
+    left: 1028px;
+    position: absolute;
+    top: 2288px;
+    width: 1440px;
+  }
+  
+  .desktop-1 .rectangle-114 {
+    background-color: #0000008f;
+    border-radius: 10px;
+    height: 791px;
+    left: 8px;
+    position: absolute;
+    top: 726px;
+    width: 1440px;
+  }
+  
+  .desktop-1 .group-299 {
+    align-items: center;
+    display: flex;
+    gap: 23px;
+    height: 646px;
+    left: 24px;
+    min-width: 1418px;
+    position: absolute;
+    top: 821px;
+  }
+  
+  .desktop-1 .flex-col {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    min-height: 646px;
+    width: 935px;
+  }
+  
+  .desktop-1 .tendances {
+    color: var(--peach);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xxl);
+    font-weight: 800;
+    height: 52px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 117px;
+    width: 238px;
+  }
+  
+  .desktop-1 .overlap-group10 {
+    height: 559px;
+    position: relative;
+    width: 935px;
+  }
+  
+  .desktop-1 .rectangle-12 {
+    background-color: var(--black-2);
+    border-radius: 5px;
+    height: 556px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 450px;
+  }
+  
+  .desktop-1 .rectangle-122 {
+    background-color: var(--black-2);
+    border-radius: 5px;
+    height: 556px;
+    left: 479px;
+    position: absolute;
+    top: 0;
+    width: 450px;
+  }
+  
+  .desktop-1 .group-296 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    left: 21px;
+    min-height: 540px;
+    position: absolute;
+    top: 19px;
+    width: 445px;
+  }
+  
+  .desktop-1 .overlap-group3 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64538066667928fc44d4e607/releases/64539b208b4e7062cd31aa24/img/rectangle-115-1@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 314px;
+    position: relative;
+    width: 421px;
+  }
+  
+  .desktop-1 .rectangle-116 {
+    background-color: #0000006b;
+    border-radius: 15px;
+    height: 314px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 421px;
+  }
+  
+  .desktop-1 .play_circle_fill0_wght400_grad0_opsz48-1 {
+    height: 133px;
+    left: 144px;
+    position: absolute;
+    top: 90px;
+    width: 133px;
+  }
+  
+  .desktop-1 .rectangle-119 {
+    height: 26px;
+    left: 360px;
+    position: absolute;
+    top: 245px;
+    width: 49px;
+  }
+  
+  .desktop-1 .x4-k {
+    height: 30px;
+    left: 371px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 243px;
+    width: 27px;
+  }
+  
+  .desktop-1 .nems-chinois {
+    height: 46px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 5px;
+    width: 191px;
+  }
+  
+  .desktop-1 .overlap-group4 {
+    height: 171px;
+    margin-top: 4px;
+    position: relative;
+    width: 437px;
+  }
+  
+  .desktop-1 .overlap-group2 {
+    height: 162px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 437px;
+  }
+  
+  .desktop-1 .x30mn {
+    height: 37px;
+    left: 345px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 125px;
+    width: 55px;
+  }
+  
+  .desktop-1 .overlap-group {
+    height: 42px;
+    left: 293px;
+    position: absolute;
+    top: 94px;
+    width: 144px;
+  }
+  
+  .desktop-1 .rectangle-110 {
+    background-color: var(--midnight-blue);
+    height: 29px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 131px;
+  }
+  
+  .desktop-1 .plat-asiatique {
+    font-size: 15px;
+    left: 12px;
+    position: absolute;
+    top: 5px;
+    width: 132px;
+  }
+  
+  .desktop-1 .surname {
+    height: 113px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 347px;
+  }
+  
+  .desktop-1 .voir-recette {
+    left: 0;
+    text-decoration: underline;
+    top: 139px;
+    width: 116px;
+  }
+  
+  .desktop-1 .group-297 {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    left: 442px;
+    min-height: 543px;
+    padding: 0 10px;
+    position: absolute;
+    top: 11px;
+    width: 493px;
+  }
+  
+  .desktop-1 .overlap-group6 {
+    height: 314px;
+    position: relative;
+    width: 433px;
+  }
+  
+  .desktop-1 .rectangle-115 {
+    height: 314px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 421px;
+  }
+  
+  .desktop-1 .rectangle-116-1 {
+    background-color: #00000057;
+    left: 0;
+    top: 0;
+  }
+  
+  .desktop-1 .rectangle-118 {
+    background-color: #ffc807;
+    height: 26px;
+    left: 384px;
+    position: absolute;
+    top: 41px;
+    width: 49px;
+  }
+  
+  .desktop-1 .rectangle-119-1 {
+    left: 360px;
+    top: 245px;
+  }
+  
+  .desktop-1 .new {
+    color: var(--midnight-blue);
+    font-family: var(--font-family-playfair_display);
+    font-size: var(--font-size-xs);
+    font-weight: 800;
+    height: 37px;
+    left: 388px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 35px;
+    width: 42px;
+  }
+  
+  .desktop-1 .tiramisu {
+    align-self: flex-start;
+    height: 46px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 40px;
+    margin-top: 2px;
+    width: 167px;
+  }
+  
+  .desktop-1 .overlap-group7 {
+    height: 174px;
+    margin-right: 7px;
+    margin-top: 7px;
+    position: relative;
+    width: 426px;
+  }
+  
+  .desktop-1 .overlap-group5 {
+    height: 170px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 426px;
+  }
+  
+  .desktop-1 .x15mn {
+    height: 37px;
+    left: 353px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 133px;
+    width: 55px;
+  }
+  
+  .desktop-1 .overlap-group-1 {
+    height: 46px;
+    left: 322px;
+    position: absolute;
+    top: 92px;
+    width: 104px;
+  }
+  
+  .desktop-1 .rectangle-110-1 {
+    width: 98px;
+  }
+  
+  .desktop-1 .dessert {
+    left: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 9px;
+    width: 86px;
+  }
+  
+  .desktop-1 .voir-recette-1 {
+    left: 0;
+    top: 142px;
+    width: 155px;
+  }
+  
+  .desktop-1 .overlap-group9 {
+    height: 637px;
+    margin-top: 3.0px;
+    position: relative;
+    width: 450px;
+  }
+  
+  .desktop-1 .group-292 {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    gap: 473px;
+    left: 257px;
+    min-height: 532px;
+    position: absolute;
+    top: 0;
+    width: 167px;
+  }
+  
+  .desktop-1 .overlap-group1 {
+    height: 45px;
+    margin-right: 2px;
+    position: relative;
+    width: 165px;
+  }
+  
+  .desktop-1 .group-279 {
+    background-color: var(--peach);
+    border-radius: 20px;
+    height: 36px;
+    left: 0;
+    position: absolute;
+    top: 5px;
+    width: 165px;
+  }
+  
+  .desktop-1 .catgories {
+    color: var(--black);
+    font-family: var(--font-family-raleway);
+    font-size: var(--font-size-xs);
+    font-weight: 500;
+    height: 45px;
+    left: 27px;
+    letter-spacing: 0;
+    line-height: 45px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .group-30 {
+    align-items: flex-end;
+    display: flex;
+    height: 12px;
+    justify-content: flex-end;
+    margin-right: 33.87px;
+    min-width: 11px;
+    transform: rotate(20.29deg);
+  }
+  
+  .desktop-1 .line-container {
+    height: 15px;
+    margin-bottom: -2.13px;
+    position: relative;
+    width: 15px;
+  }
+  
+  .desktop-1 .line-3 {
+    height: 10px;
+    left: 2px;
+    position: absolute;
+    top: 3px;
+    transform: rotate(-20.29deg);
+    width: 7px;
+  }
+  
+  .desktop-1 .line-4 {
+    height: 11px;
+    left: 6px;
+    position: absolute;
+    top: 1px;
+    transform: rotate(-20.29deg);
+    width: 7px;
+  }
+  
+  .desktop-1 .rectangle-123 {
+    background-color: var(--black-2);
+    border-radius: 5px;
+    height: 556px;
+    left: 0;
+    position: absolute;
+    top: 81px;
+    width: 450px;
+  }
+  
+  .desktop-1 .rectangle-115-1 {
+    height: 314px;
+    left: 14px;
+    object-fit: cover;
+    position: absolute;
+    top: 94px;
+    width: 421px;
+  }
+  
+  .desktop-1 .rectangle-116-2 {
+    background-color: #0000006b;
+    left: 14px;
+    top: 94px;
+  }
+  
+  .desktop-1 .play_circle_fill0_wght400_grad0_opsz48-1-1 {
+    height: 133px;
+    left: 158px;
+    position: absolute;
+    top: 184px;
+    width: 133px;
+  }
+  
+  .desktop-1 .rectangle-119-2 {
+    left: 374px;
+    top: 339px;
+  }
+  
+  .desktop-1 .x30mn-1 {
+    height: 37px;
+    left: 371px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 592px;
+    width: 55px;
+  }
+  
+  .desktop-1 .x4-k-2 {
+    height: 30px;
+    left: 385px;
+    position: absolute;
+    top: 337px;
+    width: 27px;
+  }
+  
+  .desktop-1 .burger-vegan {
+    height: 46px;
+    left: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 413px;
+    width: 198px;
+  }
+  
+  .desktop-1 .overlap-group8 {
+    height: 45px;
+    left: 306px;
+    position: absolute;
+    top: 556px;
+    width: 137px;
+  }
+  
+  .desktop-1 .rectangle-110-2 {
+    width: 137px;
+  }
+  
+  .desktop-1 .fast-food {
+    left: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 8px;
+    width: 105px;
+  }
+  
+  .desktop-1 .surname-1 {
+    height: 113px;
+    left: 14px;
+    top: 463px;
+    width: 414px;
+  }
+  
+  .desktop-1 .voir-recette-2 {
+    left: 14px;
+    top: 605px;
+    width: 116px;
+  }
+  
+  .desktop-1 .vector-10 {
+    height: 24px;
+    left: 442px;
+    position: absolute;
+    top: 1428px;
+    width: 24px;
+  }
+  
+  .desktop-1 .vector-11 {
+    height: 24px;
+    left: 919px;
+    position: absolute;
+    top: 1428px;
+    width: 24px;
+  }
+  
+  .desktop-1 .vector-12 {
+    height: 24px;
+    left: 1405px;
+    position: absolute;
+    top: 1428px;
+    width: 24px;
+  }
+  
+  .desktop-1 .rectangle-133 {
+    background-color: #0000008f;
+    height: 836px;
+    left: 8px;
+    position: absolute;
+    top: 2324px;
+    width: 1440px;
+  }
+  
+  .desktop-1 .rectangle-134 {
+    background-color: var(--midnight-blue-2);
+    border-radius: 10px;
+    height: 554px;
+    left: 37px;
+    position: absolute;
+    top: 2512px;
+    width: 437px;
+  }
+  
+  .desktop-1 .rectangle-135 {
+    height: 317px;
+    left: 44px;
+    object-fit: cover;
+    position: absolute;
+    top: 2525px;
+    width: 422px;
+  }
+  
+  .desktop-1 .rectangle-136 {
+    background-color: #00000061;
+    border-radius: 20px;
+    height: 317px;
+    left: 44px;
+    position: absolute;
+    top: 2524px;
+    width: 422px;
+  }
+  
+  .desktop-1 .riz-a-la-viande {
+    left: 44px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2843px;
+    width: 258px;
+  }
+  
+  .desktop-1 .surname-2 {
+    height: 117px;
+    left: 47px;
+    top: 2874px;
+    width: 306px;
+  }
+  
+  .desktop-1 .overlap-group11 {
+    align-items: flex-start;
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--midnight-blue);
+    display: flex;
+    height: 27px;
+    justify-content: flex-end;
+    left: 404px;
+    min-width: 48px;
+    padding: 0 4px;
+    position: absolute;
+    top: 2784px;
+  }
+  
+  .desktop-1 .x4-k-1 {
+    height: 25px;
+    margin-top: -1px;
+    width: 35px;
+  }
+  
+  .desktop-1 .rectangle-138 {
+    background-color: var(--midnight-blue-2);
+    border-radius: 10px;
+    height: 554px;
+    left: 981px;
+    position: absolute;
+    top: 2509px;
+    width: 437px;
+  }
+  
+  .desktop-1 .rectangle-139 {
+    height: 317px;
+    left: 988px;
+    object-fit: cover;
+    position: absolute;
+    top: 2522px;
+    width: 422px;
+  }
+  
+  .desktop-1 .hot-dog {
+    left: 988px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2840px;
+    width: 258px;
+  }
+  
+  .desktop-1 .risotto-aux-crevette {
+    height: 117px;
+    left: 986px;
+    top: 2878px;
+    width: 341px;
+  }
+  
+  .desktop-1 .rectangle-126 {
+    background-color: var(--midnight-blue-2);
+    border-radius: 10px;
+    height: 554px;
+    left: 514px;
+    position: absolute;
+    top: 2512px;
+    width: 437px;
+  }
+  
+  .desktop-1 .rectangle-128 {
+    height: 317px;
+    left: 521px;
+    object-fit: cover;
+    position: absolute;
+    top: 2525px;
+    width: 422px;
+  }
+  
+  .desktop-1 .rectangle-141 {
+    background-color: #0000004a;
+    border-radius: 20px;
+    height: 317px;
+    left: 521px;
+    position: absolute;
+    top: 2524px;
+    width: 422px;
+  }
+  
+  .desktop-1 .vada-pav {
+    left: 521px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2843px;
+    width: 258px;
+  }
+  
+  .desktop-1 .surname-3 {
+    height: 117px;
+    left: 521px;
+    top: 2874px;
+    width: 306px;
+  }
+  
+  .desktop-1 .overlap-group12 {
+    align-items: flex-start;
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--midnight-blue);
+    display: flex;
+    height: 27px;
+    justify-content: flex-end;
+    left: 887px;
+    min-width: 48px;
+    padding: 0 4px;
+    position: absolute;
+    top: 2761px;
+  }
+  
+  .desktop-1 .overlap-group13 {
+    align-items: flex-start;
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--midnight-blue);
+    display: flex;
+    height: 27px;
+    justify-content: flex-end;
+    left: 1355px;
+    min-width: 48px;
+    padding: 0 4px;
+    position: absolute;
+    top: 2781px;
+  }
+  
+  .desktop-1 .rectangle-142 {
+    background-color: #ffe8d2;
+    height: 450px;
+    left: 8px;
+    position: absolute;
+    top: 3160px;
+    width: 1471px;
+  }
+  
+  .desktop-1 .rectangle-143 {
+    background-color: #8d99ae;
+    height: 317px;
+    left: 61px;
+    position: absolute;
+    top: 3256px;
+    width: 1322px;
+  }
+  
+  .desktop-1 .rectangle-45 {
+    background-color: var(--midnight-blue);
+    border-radius: 21.5px;
+    height: 43px;
+    left: 628px;
+    position: absolute;
+    top: 3098px;
+    width: 181px;
+  }
+  
+  .desktop-1 .voir-plus {
+    color: var(--peach);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-s);
+    font-weight: 700;
+    left: 661px;
+    top: 3106px;
+    white-space: nowrap;
+    width: 106px;
+  }
+  
+  .desktop-1 .vector-13 {
+    height: 8px;
+    left: 760px;
+    position: absolute;
+    top: 3115px;
+    width: 16px;
+  }
+  
+  .desktop-1 .rectangle-144 {
+    background-color: #161214f0;
+    height: 288px;
+    left: 0;
+    position: absolute;
+    top: 3606px;
+    width: 1449px;
+  }
+  
+  .desktop-1 .rectangle-145 {
+    background-color: var(--midnight-blue);
+    height: 61px;
+    left: 8px;
+    position: absolute;
+    top: 3889px;
+    width: 1440px;
+  }
+  
+  .desktop-1 .group-317 {
+    align-items: flex-start;
+    display: flex;
+    height: 206px;
+    left: 122px;
+    min-width: 1127px;
+    position: absolute;
+    top: 3647px;
+  }
+  
+  .desktop-1 .overlap-group14 {
+    align-items: center;
+    background-color: #362f32;
+    display: flex;
+    height: 34px;
+    min-width: 131px;
+    padding: 0 15px;
+  }
+  
+  .desktop-1 .globe-1 {
+    height: 18px;
+    width: 18px;
+  }
+  
+  .desktop-1 .home-about-us-what-w {
+    letter-spacing: 0;
+    line-height: 30px;
+    margin-left: 13px;
+    min-width: 46px;
+    opacity: 0.8;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .vector-14 {
+    height: 6px;
+    margin-left: 14px;
+    margin-top: 3.0px;
+    width: 10px;
+  }
+  
+  .desktop-1 .overlap-group15 {
+    height: 206px;
+    margin-left: 87px;
+    position: relative;
+    width: 142px;
+  }
+  
+  .desktop-1 .home-about-us-what-w-1 {
+    left: 1px;
+    position: absolute;
+    top: 12px;
+    width: 141px;
+  }
+  
+  .desktop-1 .navigation {
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop-1 .flex-col-1 {
+    align-items: flex-start;
+    gap: 12px;
+    margin-left: 99px;
+    min-height: 152px;
+    width: 149px;
+  }
+  
+  .desktop-1 .place {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 20px;
+  }
+  
+  .desktop-1 .general-info-privacy {
+    letter-spacing: 0;
+    line-height: 30px;
+    min-height: 120px;
+    opacity: 0.8;
+  }
+  
+  .desktop-1 .flex-col-2 {
+    align-items: flex-start;
+    gap: 13px;
+    margin-left: 100px;
+    margin-top: 1px;
+    min-height: 93px;
+    width: 141px;
+  }
+  
+  .desktop-1 .talk-to-us {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 20px;
+  }
+  
+  .desktop-1 .supportapcomcom-6 {
+    letter-spacing: 0;
+    line-height: 30px;
+    min-height: 60px;
+    opacity: 0.8;
+  }
+  
+  .desktop-1 .flex-col-3 {
+    align-items: center;
+    gap: 5px;
+    margin-left: 117px;
+    min-height: 64px;
+    width: 145px;
+  }
+  
+  .desktop-1 .talk-to-us-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 3.0px;
+    min-height: 20px;
+    min-width: 122px;
+  }
+  
+  .desktop-1 .social {
+    align-items: flex-start;
+    display: flex;
+    gap: 14px;
+    min-width: 145px;
+  }
+  
+  .desktop-1 .facebook-icon {
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: var(--white-3);
+    border-radius: 19.5px;
+    display: flex;
+    height: 39px;
+    min-width: 39px;
+    padding: 11px 15px;
+  }
+  
+  .desktop-1 .shape {
+    height: 15px;
+    width: 7px;
+  }
+  
+  .desktop-1 .linkedin-icon {
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: var(--white-3);
+    border-radius: 19.5px;
+    display: flex;
+    height: 39px;
+    min-width: 39px;
+    padding: 11px 12px;
+  }
+  
+  .desktop-1 .group-14 {
+    height: 14px;
+    width: 14px;
+  }
+  
+  .desktop-1 .twitter-icon {
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: var(--white-3);
+    border-radius: 19.5px;
+    display: flex;
+    height: 39px;
+    min-width: 39px;
+    padding: 13px 12px;
+  }
+  
+  .desktop-1 .twitter {
+    height: 11px;
+    width: 13px;
+  }
+  
+  .desktop-1 .group-318 {
+    align-items: flex-start;
+    display: flex;
+    gap: 1118px;
+    height: 2834px;
+    left: 122px;
+    min-width: 1265px;
+    padding: 0 0.0px;
+    position: absolute;
+    top: 847px;
+  }
+  
+  .desktop-1 .overlap-group16 {
+    align-items: center;
+    align-self: flex-end;
+    background-color: #362f32;
+    display: flex;
+    height: 34px;
+    margin-bottom: 0;
+    min-width: 131px;
+    padding: 2.0px 15.0px;
+  }
+  
+  .desktop-1 .globe-1-1 {
+    height: 18px;
+    margin-top: 0;
+    width: 18px;
+  }
+  
+  .desktop-1 .home-about-us-what-w-2 {
+    align-self: flex-start;
+    margin-left: 13px;
+    white-space: nowrap;
+    width: 53px;
+  }
+  
+  .desktop-1 .vector-15 {
+    height: 6px;
+    margin-left: 7px;
+    margin-top: 3.0px;
+    width: 10px;
+  }
+  
+  .desktop-1 .vector-16 {
+    height: 8px;
+    margin-top: -0.5px;
+    width: 14px;
+  }
+  
+  .desktop-1 .x2019-apcom-all-ri {
+    left: 520px;
+    letter-spacing: 0;
+    line-height: 14px;
+    position: absolute;
+    text-align: center;
+    top: 3912px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .overlap-group-2 {
+    align-items: center;
+    background-color: var(--midnight-blue);
+    border-radius: 10px;
+    display: flex;
+    gap: 3px;
+    height: 53px;
+    justify-content: flex-end;
+    left: 1306px;
+    min-width: 129px;
+    padding: 9px 7px;
+    position: absolute;
+    top: 479px;
+  }
+  
+  .desktop-1 .vector-17 {
+    height: 26px;
+    margin-bottom: 3.0px;
+    width: 26px;
+  }
+  
+  .desktop-1 .trailer {
+    align-self: flex-end;
+    color: var(--peach);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-l);
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 32px;
+    width: 76px;
+  }
+  
+  .desktop-1 .overlap-group17 {
+    align-items: center;
+    background-color: var(--midnight-blue);
+    display: flex;
+    height: 55px;
+    justify-content: flex-end;
+    left: 1231px;
+    min-width: 211px;
+    padding: 0 2.9px;
+    position: absolute;
+    top: 561px;
+  }
+  
+  .desktop-1 .plat-africain {
+    font-size: 30px;
+    min-height: 37px;
+    width: 203px;
+  }
+  
+  .desktop-1 .voir-recette-3 {
+    left: 71px;
+    top: 615px;
+    width: 170px;
+  }
+  
+  .desktop-1 .revisitez-le-thiebou {
+    color: var(--peach);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xxl);
+    font-weight: 700;
+    left: 164px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 212px;
+    width: 607px;
+  }
+  
+  .desktop-1 .surname-4 {
+    left: 164px;
+    top: 452px;
+    width: 743px;
+  }
+  
+  .desktop-1 .overlap-group18 {
+    background-color: #ffffff30;
+    height: 40px;
+    left: 166px;
+    position: absolute;
+    top: 391px;
+    width: 90px;
+  }
+  
+  .desktop-1 .vector-18 {
+    height: 14px;
+    left: 11px;
+    position: absolute;
+    top: 15px;
+    width: 13px;
+  }
+  
+  .desktop-1 .play {
+    left: 21px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 7px;
+    white-space: nowrap;
+    width: 64px;
+  }
+  
+  .desktop-1 .overlap-group19 {
+    background-color: #ffffff4a;
+    height: 40px;
+    left: 280px;
+    position: absolute;
+    top: 391px;
+    width: 90px;
+  }
+  
+  .desktop-1 .vector-19 {
+    height: 12px;
+    left: 7px;
+    position: absolute;
+    top: 14px;
+    width: 12px;
+  }
+  
+  .desktop-1 .my-list {
+    color: var(--peach);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-s);
+    font-weight: 700;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 9px;
+    white-space: nowrap;
+    width: 74px;
+  }
+  
+  .desktop-1 .group-287 {
+    height: 33px;
+    left: 397px;
+    position: absolute;
+    top: 394px;
+    width: 33px;
+  }
+  
+  .desktop-1 .group-335 {
+    height: 18px;
+    left: 42px;
+    position: absolute;
+    top: 146px;
+    width: 3px;
+  }
+  
+  .desktop-1 .vector-20 {
+    height: 25px;
+    left: 1354px;
+    position: absolute;
+    top: 1248px;
+    width: 25px;
+  }
+  
+  .desktop-1 .vector-21 {
+    height: 25px;
+    left: 874px;
+    position: absolute;
+    top: 1242px;
+    width: 25px;
+  }
+  
+  .desktop-1 .vector-22 {
+    height: 25px;
+    left: 392px;
+    position: absolute;
+    top: 1249px;
+    width: 25px;
+  }
+  
+  .desktop-1 .bookmark_fill0_wght400_grad0_opsz48-1 {
+    height: 30px;
+    left: 424px;
+    position: absolute;
+    top: 1247px;
+    width: 30px;
+  }
+  
+  .desktop-1 .bookmark_fill0_wght400_grad0_opsz48-4 {
+    height: 30px;
+    left: 396px;
+    position: absolute;
+    top: 2063px;
+    width: 30px;
+  }
+  
+  .desktop-1 .bookmark_fill0_wght400_grad0_opsz48-2 {
+    height: 30px;
+    left: 904px;
+    position: absolute;
+    top: 1241px;
+    width: 30px;
+  }
+  
+  .desktop-1 .bookmark_fill0_wght400_grad0_opsz48-3 {
+    height: 30px;
+    left: 1381px;
+    position: absolute;
+    top: 1246px;
+    width: 30px;
+  }
+  
+  .desktop-1 .vector-23 {
+    height: 111px;
+    left: 1139px;
+    position: absolute;
+    top: 2629px;
+    width: 111px;
+  }
+  
+  .desktop-1 .vector-24 {
+    height: 111px;
+    left: 671px;
+    position: absolute;
+    top: 2626px;
+    width: 111px;
+  }
+  
+  .desktop-1 .vector-25 {
+    height: 111px;
+    left: 193px;
+    position: absolute;
+    top: 2626px;
+    width: 111px;
+  }
+  
+  .desktop-1 .rectangle-146 {
+    background-color: #d9d9d982;
+    border: 1px solid;
+    border-color: var(--white);
+    border-radius: 20px;
+    height: 87px;
+    left: 44px;
+    position: absolute;
+    top: 2403px;
+    width: 348px;
+  }
+  
+  .desktop-1 .les-5-continents {
+    color: var(--midnight-blue);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl);
+    font-weight: 700;
+    left: 153px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2432px;
+    width: 227px;
+  }
+  
+  .desktop-1 .search_fill0_wght400_grad0_opsz48-1 {
+    height: 48px;
+    left: 84px;
+    position: absolute;
+    top: 2427px;
+    width: 48px;
+  }
+  
+  .desktop-1 .rectangle-129 {
+    background-color: #00000047;
+    border-radius: 20px;
+    height: 317px;
+    left: 987px;
+    position: absolute;
+    top: 2520px;
+    width: 422px;
+  }
+  
+  .desktop-1 .overlap-group20 {
+    align-items: flex-start;
+    background-color: var(--peach);
+    display: flex;
+    height: 38px;
+    left: 318px;
+    min-width: 134px;
+    padding: 3.9px 26.8px;
+    position: absolute;
+    top: 3012px;
+  }
+  
+  .desktop-1 .afrique {
+    color: var(--midnight-blue);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-m);
+    font-weight: 600;
+    height: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 80px;
+  }
+  
+  .desktop-1 .overlap-group21 {
+    height: 39px;
+    left: 1271px;
+    position: absolute;
+    top: 3006px;
+    width: 129px;
+  }
+  
+  .desktop-1 .rectangle-147 {
+    background-color: var(--peach);
+    height: 31px;
+    left: 0;
+    position: absolute;
+    top: 5px;
+    width: 101px;
+  }
+  
+  .desktop-1 .amrique {
+    color: var(--midnight-blue);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xs);
+    font-weight: 600;
+    height: 39px;
+    left: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 118px;
+  }
+  
+  .desktop-1 .overlap-group22 {
+    height: 31px;
+    left: 863px;
+    position: absolute;
+    top: 3019px;
+    width: 88px;
+  }
+  
+  .desktop-1 .rectangle-147-1 {
+    background-color: var(--peach);
+    height: 31px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 76px;
+  }
+  
+  .desktop-1 .asie {
+    color: var(--midnight-blue);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-m);
+    font-weight: 600;
+    height: 25px;
+    left: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1px;
+    width: 69px;
+  }
+  
+  .desktop-1 .rectangle-148 {
+    height: 236px;
+    left: 168px;
+    object-fit: cover;
+    position: absolute;
+    top: 3304px;
+    width: 634px;
+  }
+  
+  .desktop-1 .overlap-group23 {
+    align-items: flex-start;
+    background-color: #ffc807;
+    display: flex;
+    height: 29px;
+    justify-content: flex-end;
+    left: 909px;
+    min-width: 52px;
+    padding: 4px;
+    position: absolute;
+    top: 2618px;
+  }
+  
+  .desktop-1 .new-1 {
+    color: var(--midnight-blue);
+    font-family: var(--font-family-playfair_display);
+    font-size: var(--font-size-xs);
+    font-weight: 800;
+    height: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 42px;
+  }
+  
+  .desktop-1 .rectangle-124 {
+    height: 810px;
+    left: 8px;
+    position: absolute;
+    top: 1514px;
+    width: 1440px;
+  }
+  
+  .desktop-1 .recommander-pour-toi {
+    color: var(--peach);
+    font-family: var(--font-family-montserrat);
+    font-size: 27px;
+    font-weight: 700;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1532px;
+    width: 394px;
+  }
+  
+  .desktop-1 .rectangle-125 {
+    background-color: var(--midnight-blue);
+    border: 1px solid;
+    border-color: var(--white);
+    border-radius: 20px;
+    height: 62px;
+    left: 45px;
+    position: absolute;
+    top: 1603px;
+    width: 203px;
+  }
+  
+  .desktop-1 .cuisine-facile {
+    color: #ffffff9e;
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl);
+    font-weight: 600;
+    left: 57px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1616px;
+    width: 178px;
+  }
+  
+  .desktop-1 .rectangle-125-1 {
+    background-color: #003466cf;
+    border: 1px solid;
+    border-color: var(--white);
+    border-radius: 20px;
+    height: 65px;
+    left: 835px;
+    position: absolute;
+    top: 1600px;
+    width: 132px;
+  }
+  
+  .desktop-1 .dessert-1 {
+    left: 849px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1614px;
+    width: 98px;
+  }
+  
+  .desktop-1 .rectangle-125-2 {
+    background-color: #003466c9;
+    border: 1px solid;
+    border-color: var(--white);
+    border-radius: 20px;
+    height: 62px;
+    left: 563px;
+    position: absolute;
+    top: 1603px;
+    width: 242px;
+  }
+  
+  .desktop-1 .plat-de-rsistance {
+    left: 574px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1616px;
+    width: 225px;
+  }
+  
+  .desktop-1 .rectangle-125-3 {
+    background-color: #a5a5a5;
+    border: 1px solid;
+    border-color: var(--white);
+    border-radius: 20px;
+    height: 62px;
+    left: 267px;
+    position: absolute;
+    top: 1603px;
+    width: 274px;
+  }
+  
+  .desktop-1 .niveau-chef-toil {
+    color: var(--midnight-blue);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl);
+    font-weight: 600;
+    left: 283px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1616px;
+    width: 240px;
+  }
+  
+  .desktop-1 .rectangle-125-4 {
+    background-color: #003466bd;
+    border: 1px solid;
+    border-color: var(--white);
+    border-radius: 20px;
+    height: 61px;
+    left: 995px;
+    position: absolute;
+    top: 1600px;
+    width: 226px;
+  }
+  
+  .desktop-1 .les-5-continents-1 {
+    left: 1005px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1616px;
+    width: 214px;
+  }
+  
+  .desktop-1 .overlap-group24 {
+    align-items: flex-end;
+    background-color: var(--white-2);
+    border: 1px solid;
+    border-color: var(--white);
+    border-radius: 20px;
+    display: flex;
+    height: 56px;
+    left: 1265px;
+    min-width: 156px;
+    padding: 6px 17px;
+    position: absolute;
+    top: 1603px;
+  }
+  
+  .desktop-1 .fast-food-1 {
+    color: var(--midnight-blue);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl);
+    font-weight: 600;
+    min-height: 38px;
+    width: 121px;
+  }
+  
+  .desktop-1 .rectangle-126-1 {
+    background-color: var(--midnight-blue);
+    left: 38px;
+    top: 1715px;
+  }
+  
+  .desktop-1 .rectangle-128-1 {
+    left: 45px;
+    top: 1728px;
+  }
+  
+  .desktop-1 .rectangle-129-1 {
+    left: 45px;
+    top: 1728px;
+  }
+  
+  .desktop-1 .steak-de-boeuf-par-chef-vincent {
+    left: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2046px;
+    width: 258px;
+  }
+  
+  .desktop-1 .reproduisez-le-clb {
+    height: 117px;
+    left: 43px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2097px;
+    width: 306px;
+  }
+  
+  .desktop-1 .overlap-group25 {
+    align-items: flex-start;
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--midnight-blue);
+    display: flex;
+    height: 27px;
+    justify-content: flex-end;
+    left: 411px;
+    min-width: 48px;
+    padding: 0 4px;
+    position: absolute;
+    top: 1964px;
+  }
+  
+  .desktop-1 .voir-recette-4 {
+    height: 46px;
+    left: 45px;
+    top: 2214px;
+    width: 138px;
+  }
+  
+  .desktop-1 .overlap-group26 {
+    height: 60px;
+    left: 245px;
+    position: absolute;
+    top: 2201px;
+    width: 260px;
+  }
+  
+  .desktop-1 .rectangle-125-5 {
+    background-color: var(--peach);
+    height: 50px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 223px;
+  }
+  
+  .desktop-1 .niveau-chef-toil-1 {
+    top: 13px;
+    width: 249px;
+  }
+  
+  .desktop-1 .overlap-group27 {
+    height: 554px;
+    left: 982px;
+    position: absolute;
+    top: 1712px;
+    width: 467px;
+  }
+  
+  .desktop-1 .rectangle-126-2 {
+    background-color: var(--midnight-blue-2);
+    left: 0;
+    top: 0;
+  }
+  
+  .desktop-1 .rectangle-128-2 {
+    left: 7px;
+    top: 13px;
+  }
+  
+  .desktop-1 .risotto-aux-crevettes {
+    left: 7px;
+    top: 332px;
+    width: 258px;
+  }
+  
+  .desktop-1 .risotto-aux-crevette-1 {
+    height: 117px;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 370px;
+    width: 341px;
+  }
+  
+  .desktop-1 .voir-recette-5 {
+    height: 46px;
+    left: 7px;
+    top: 500px;
+    width: 138px;
+  }
+  
+  .desktop-1 .overlap-group-3 {
+    height: 52px;
+    left: 197px;
+    position: absolute;
+    top: 494px;
+    width: 270px;
+  }
+  
+  .desktop-1 .rectangle-125-6 {
+    background-color: var(--peach);
+    height: 44px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 232px;
+  }
+  
+  .desktop-1 .niveau-chef-toil-2 {
+    top: 9px;
+    width: 259px;
+  }
+  
+  .desktop-1 .rectangle-126-3 {
+    background-color: var(--midnight-blue-2);
+    left: 515px;
+    top: 1715px;
+  }
+  
+  .desktop-1 .rectangle-128-3 {
+    left: 522px;
+    top: 1728px;
+  }
+  
+  .desktop-1 .rectangle-129-2 {
+    left: 522px;
+    top: 1728px;
+  }
+  
+  .desktop-1 .pizza-a-la-pole {
+    left: 522px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2046px;
+    width: 258px;
+  }
+  
+  .desktop-1 .pas-besoin-de-four-p {
+    height: 117px;
+    left: 522px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2077px;
+    width: 306px;
+  }
+  
+  .desktop-1 .overlap-group28 {
+    align-items: flex-start;
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--midnight-blue);
+    display: flex;
+    height: 27px;
+    justify-content: flex-end;
+    left: 888px;
+    min-width: 48px;
+    padding: 0 4px;
+    position: absolute;
+    top: 1964px;
+  }
+  
+  .desktop-1 .voir-recette-6 {
+    height: 46px;
+    left: 522px;
+    top: 2214px;
+    width: 138px;
+  }
+  
+  .desktop-1 .overlap-group29 {
+    height: 49px;
+    left: 805px;
+    position: absolute;
+    top: 2212px;
+    width: 138px;
+  }
+  
+  .desktop-1 .rectangle-125-7 {
+    background-color: var(--peach);
+    height: 39px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 138px;
+  }
+  
+  .desktop-1 .fast-food-2 {
+    left: 12px;
+    position: absolute;
+    top: 6px;
+    width: 113px;
+  }
+  
+  .desktop-1 .rectangle-129-3 {
+    left: 989px;
+    top: 1725px;
+  }
+  
+  .desktop-1 .vector-26 {
+    height: 111px;
+    left: 678px;
+    position: absolute;
+    top: 1829px;
+    width: 111px;
+  }
+  
+  .desktop-1 .vector-27 {
+    height: 111px;
+    left: 1140px;
+    position: absolute;
+    top: 1832px;
+    width: 111px;
+  }
+  
+  .desktop-1 .vector-28 {
+    height: 111px;
+    left: 201px;
+    position: absolute;
+    top: 1832px;
+    width: 111px;
+  }
+  
+  .desktop-1 .vector {
+    height: 32px;
+    left: 381px;
+    position: absolute;
+    top: 2054px;
+    width: 32px;
+  }
+  
+  .desktop-1 .bookmark_fill0_wght400_grad0_opsz48-5 {
+    height: 38px;
+    left: 414px;
+    position: absolute;
+    top: 2053px;
+    width: 38px;
+  }
+  
+  .desktop-1 .vector-1 {
+    height: 29px;
+    left: 425px;
+    position: absolute;
+    top: 2056px;
+    width: 22px;
+  }
+  
+  .desktop-1 .vector-2 {
+    height: 32px;
+    left: 385px;
+    position: absolute;
+    top: 2851px;
+    width: 32px;
+  }
+  
+  .desktop-1 .vector-3 {
+    height: 29px;
+    left: 429px;
+    position: absolute;
+    top: 2853px;
+    width: 22px;
+  }
+  
+  .desktop-1 .vector-4 {
+    height: 32px;
+    left: 1334px;
+    position: absolute;
+    top: 2851px;
+    width: 32px;
+  }
+  
+  .desktop-1 .vector-5 {
+    height: 29px;
+    left: 1378px;
+    position: absolute;
+    top: 2853px;
+    width: 22px;
+  }
+  
+  .desktop-1 .vector-6 {
+    height: 32px;
+    left: 866px;
+    position: absolute;
+    top: 2853px;
+    width: 32px;
+  }
+  
+  .desktop-1 .vector-7 {
+    height: 29px;
+    left: 910px;
+    position: absolute;
+    top: 2855px;
+    width: 22px;
+  }
+  
+  .desktop-1 .vector-8 {
+    height: 32px;
+    left: 1339px;
+    position: absolute;
+    top: 2054px;
+    width: 32px;
+  }
+  
+  .desktop-1 .vector-9 {
+    height: 29px;
+    left: 1383px;
+    position: absolute;
+    top: 2056px;
+    width: 22px;
+  }
+  
+  .desktop-1 .vector-29 {
+    height: 32px;
+    left: 867px;
+    position: absolute;
+    top: 2054px;
+    width: 32px;
+  }
+  
+  .desktop-1 .vector-30 {
+    height: 29px;
+    left: 911px;
+    position: absolute;
+    top: 2056px;
+    width: 22px;
+  }
+  
+  .desktop-1 .rectangle-130 {
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--midnight-blue);
+    height: 27px;
+    left: 1365px;
+    position: absolute;
+    top: 1953px;
+    width: 48px;
+  }
+  
+  .desktop-1 .x4-k-3 {
+    height: 25px;
+    left: 1375px;
+    position: absolute;
+    top: 1953px;
+    width: 35px;
+  }
+  
+  .desktop-1 .rectangle-149 {
+    background: linear-gradient(180deg, rgb(141, 153, 174) 22.4%, rgba(141, 153, 174, 0) 100%);
+    height: 299px;
+    left: 59px;
+    position: absolute;
+    top: 3278px;
+    width: 1319px;
+  }
+  
+  .desktop-1 .listes-des-recettes {
+    color: var(--peach);
+    font-family: var(--font-family-playfair_display);
+    font-size: var(--font-size-l);
+    font-weight: 600;
+    left: 905px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 3356px;
+    width: 202px;
+  }
+  
+  .desktop-1 .line-container-1 {
+    left: 886px;
+    position: absolute;
+    top: 3403px;
+  }
+  
+  .desktop-1 .line-8 {
+    height: 53px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 2px;
+  }
+  
+  .desktop-1 .line-9 {
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 51px;
+    width: 23px;
+  }
+  
+  .desktop-1 .group-42 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+    left: 906px;
+    min-height: 53px;
+    position: absolute;
+    top: 3289px;
+    transform: rotate(90.14deg);
+    width: 23px;
+  }
+  
+  .desktop-1 .line-8-1 {
+    height: 2px;
+    margin-left: -25.33px;
+    margin-top: 25px;
+    transform: rotate(-90.14deg);
+    width: 53px;
+  }
+  
+  .desktop-1 .line-9-1 {
+    align-self: center;
+    height: 23px;
+    margin-left: 0;
+    transform: rotate(-90.14deg);
+    width: 2px;
+  }
+  
+  .desktop-1 .group-43 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+    left: 1073px;
+    min-height: 53px;
+    position: absolute;
+    top: 3289px;
+    transform: rotate(90.28deg);
+    width: 23px;
+  }
+  
+  .desktop-1 .line-9-2 {
+    align-self: center;
+    height: 23px;
+    margin-right: 0;
+    margin-top: -10px;
+    transform: rotate(-90.28deg);
+    width: 2px;
+  }
+  
+  .desktop-1 .line-8-2 {
+    height: 2px;
+    margin-left: -25.33px;
+    transform: rotate(-90.28deg);
+    width: 53px;
+  }
+  
+  .desktop-1 .group-44 {
+    align-items: flex-start;
+    display: flex;
+    height: 53px;
+    left: 1088px;
+    min-width: 23px;
+    position: absolute;
+    top: 3403px;
+    transform: rotate(180deg);
+  }
+  
+  .desktop-1 .line-container-2 {
+    margin-top: 0;
+    position: relative;
+  }
+  
+  .desktop-1 .line-8-3 {
+    height: 53px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    transform: rotate(-180deg);
+    width: 2px;
+  }
+  
+  .desktop-1 .line-9-3 {
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    transform: rotate(-180deg);
+    width: 23px;
+  }
+  
+  .desktop-1 .astuces-des-chefs {
+    color: var(--midnight-blue);
+    font-family: var(--font-family-playfair_display);
+    font-size: var(--font-size-l);
+    font-weight: 600;
+    left: 1160px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 3440px;
+    width: 202px;
+  }
+  
+  .desktop-1 .line-8-4 {
+    height: 53px;
+    left: 1141px;
+    position: absolute;
+    top: 3487px;
+    width: 2px;
+  }
+  
+  .desktop-1 .line-9-4 {
+    height: 2px;
+    left: 1141px;
+    position: absolute;
+    top: 3538px;
+    width: 23px;
+  }
+  
+  .desktop-1 .line-8-5 {
+    height: 2px;
+    left: 1146px;
+    position: absolute;
+    top: 3388px;
+    width: 53px;
+  }
+  
+  .desktop-1 .line-9-5 {
+    height: 23px;
+    left: 1146px;
+    position: absolute;
+    top: 3388px;
+    width: 2px;
+  }
+  
+  .desktop-1 .line-8-6 {
+    height: 2px;
+    left: 1313px;
+    position: absolute;
+    top: 3388px;
+    width: 53px;
+  }
+  
+  .desktop-1 .line-9-6 {
+    height: 23px;
+    left: 1364px;
+    position: absolute;
+    top: 3388px;
+    width: 2px;
+  }
+  
+  .desktop-1 .line-8-7 {
+    height: 53px;
+    left: 1364px;
+    position: absolute;
+    top: 3487px;
+    width: 2px;
+  }
+  
+  .desktop-1 .line-9-7 {
+    height: 2px;
+    left: 1343px;
+    position: absolute;
+    top: 3538px;
+    width: 23px;
+  }
+  
+  .desktop-1 .group-340 {
+    align-items: flex-start;
+    display: flex;
+    height: 98px;
+    left: -5px;
+    min-width: 1445px;
+    position: fixed;
+    top: 0;
+    z-index: 3;
+  }
+  
+  .desktop-1 .overlap-group32 {
+    height: 98px;
+    position: relative;
+    width: 1445px;
+  }
+  
+  .desktop-1 .ellipse-4 {
+    background-color: var(--peach);
+    border-radius: 5px;
+    height: 10px;
+    left: 363px;
+    position: absolute;
+    top: 57px;
+    width: 10px;
+  }
+  
+  .desktop-1 .overlap-group3-1 {
+    align-items: flex-end;
+    background-color: var(--midnight-blue);
+    display: flex;
+    height: 98px;
+    justify-content: flex-end;
+    left: 0;
+    min-width: 1445px;
+    padding: 7px 28px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop-1 .we-b-2 {
+    align-self: flex-start;
+  }
+  
+  .desktop-1 .accueil {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 2.04px;
+    margin-left: 76px;
+    min-height: 58px;
+    width: 91px;
+  }
+  
+  .desktop-1 .tendances-1 {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 3px;
+    margin-left: 11px;
+    min-height: 58px;
+    width: 116px;
+  }
+  
+  .desktop-1 .overlap-group4-1 {
+    height: 58px;
+    margin-bottom: 2.04px;
+    margin-left: 22px;
+    position: relative;
+    width: 223px;
+  }
+  
+  .desktop-1 .nos-chefs {
+    cursor: pointer;
+    left: 111px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 112px;
+  }
+  
+  .desktop-1 .tutoriel {
+    cursor: pointer;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 112px;
+  }
+  @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Raleway:500|Montserrat:700,500,600,800|Playfair+Display:600,800|Roboto:400");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/64538063244cad3e193f1548.6453806444077b1738776e3e.64538066667928fc44d4e607.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+  .desktop-1 .place-1 {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 2.43px;
+    margin-left: 24px;
+    min-height: 58px;
+    width: 112px;
+  }
+  
+  .desktop-1 .overlap-group2-1 {
+    align-items: center;
+    align-self: center;
+    background-color: #3b567d;
+    border-radius: 20px;
+    display: flex;
+    gap: 28px;
+    height: 33px;
+    justify-content: flex-end;
+    margin-bottom: 5.0px;
+    margin-left: 30px;
+    min-width: 162px;
+    padding: 3.6px 14.8px;
+  }
+  
+  .desktop-1 .search {
+    color: #a2b3cd;
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xs);
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 0.85px;
+    min-height: 19px;
+    width: 71px;
+  }
+  
+  .desktop-1 .vector-31 {
+    align-self: flex-end;
+    height: 24px;
+    width: 25px;
+  }
+  
+  .desktop-1 .overlap-group-4 {
+    align-items: flex-start;
+    align-self: center;
+    background-color: var(--peach);
+    border-radius: 10px;
+    display: flex;
+    height: 34px;
+    justify-content: flex-end;
+    margin-bottom: 5.72px;
+    margin-left: 31px;
+    min-width: 109px;
+    padding: 8.6px 14.1px;
+  }
+  
+  .desktop-1 .sinscrire {
+    color: var(--midnight-blue);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xs);
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .overlap-group1-1 {
+    align-items: flex-start;
+    align-self: center;
+    background-color: var(--midnight-blue);
+    border: 1px solid;
+    border-color: var(--peach);
+    border-radius: 10px;
+    display: flex;
+    height: 33px;
+    margin-bottom: 7.0px;
+    margin-left: 18px;
+    min-width: 145px;
+    padding: 3.5px 15.8px;
+  }
+  
+  .desktop-1 .se-connecter {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 21px;
+    width: 112px;
+  }
+  
+  .desktop-1 .group-336 {
+    height: 315px;
+    left: 0;
+    position: fixed;
+    top: 130px;
+    width: 63px;
+    z-index: 4;
+  }
+  
+  .desktop-1 .we-b-3 {
+    left: 81px;
+    position: fixed;
+    top: 3807px;
+    z-index: 2;
+  }
+  
+  .desktop-1 .fast-food-3 {
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop-1 .flex-col-4 {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .desktop-1 .home-about-us-what-w-3 {
+    letter-spacing: 0;
+    line-height: 30px;
+    opacity: 0.8;
+  }
+  
+  .desktop-1 .line-container-3 {
+    height: 53px;
+    width: 23px;
+  }
+  
+  .desktop-1 .niveau-chef-toil-3 {
+    left: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+  }
+  
+  .desktop-1 .plat {
+    color: var(--peach);
+    font-family: var(--font-family-montserrat);
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop-1 .rectangle-110-3 {
+    background-color: var(--midnight-blue);
+    height: 40px;
+    left: 0;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop-1 .rectangle-116-3 {
+    border-radius: 15px;
+    height: 314px;
+    position: absolute;
+    width: 421px;
+  }
+  
+  .desktop-1 .rectangle-119-3 {
+    background-color: #ffffffb8;
+    border: 1px solid;
+    border-color: var(--midnight-blue);
+    height: 26px;
+    position: absolute;
+    width: 49px;
+  }
+  
+  .desktop-1 .rectangle-126-4 {
+    border-radius: 10px;
+    height: 554px;
+    position: absolute;
+    width: 437px;
+  }
+  
+  .desktop-1 .rectangle-128-4 {
+    height: 317px;
+    object-fit: cover;
+    position: absolute;
+    width: 422px;
+  }
+  
+  .desktop-1 .rectangle-129-4 {
+    background-color: var(--black-3);
+    border-radius: 20px;
+    height: 317px;
+    position: absolute;
+    width: 422px;
+  }
+  
+  .desktop-1 .risotto-aux {
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+  }
+  
+  .desktop-1 .surname-5 {
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+  }
+  
+  .desktop-1 .voir {
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+  }
+  
+  .desktop-1 .voir-recette-7 {
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+  }
+  
+  .desktop-1 .we-b {
+    height: 75px;
+    width: 211px;
+  }
+  
+  .desktop-1 .x4-k-4 {
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  :root { 
+    --alto: #d9d9d9c9;
+    --black: #000000;
+    --black-2: #000000d9;
+    --black-3: #00000069;
+    --midnight-blue: #003566;
+    --midnight-blue-2: #003466f7;
+    --peach: #ffd3ab;
+    --white: #ffffff;
+    --white-2: #ffffff5e;
+    --white-3: #ffffff40;
+   
+    --font-size-l: 22px;
+    --font-size-m: 20px;
+    --font-size-s: 18px;
+    --font-size-xl: 24px;
+    --font-size-xs: 16px;
+    --font-size-xxl: 40px;
+    --font-size-xxs: 14px;
+   
+    --font-family-montserrat: "Montserrat", Helvetica;
+    --font-family-playfair_display: "Playfair Display", Helvetica;
+    --font-family-raleway: "Raleway", Helvetica;
+    --font-family-roboto: "Roboto", Helvetica;
+  }
+  .montserrat-extra-bold-midnight-blue-16px {
+    color: var(--midnight-blue);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xs);
+    font-style: normal;
+    font-weight: 800;
+  }
+  
+  .montserrat-medium-peach-20px {
+    color: var(--peach);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  .montserrat-bold-peach-24px {
+    color: var(--peach);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .montserrat-bold-peach-16px {
+    color: var(--peach);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xs);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .roboto-normal-white-14px {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-xxs);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .montserrat-bold-peach-20px {
+    color: var(--peach);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .montserrat-bold-white-16px {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xs);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .montserrat-bold-white-24px {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .montserrat-extra-bold-peach-14px {
+    color: var(--peach);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xxs);
+    font-style: normal;
+    font-weight: 800;
+  }
+  
+  .montserrat-semi-bold-white-24px {
+    color: var(--white-2);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  .montserrat-extra-bold-peach-20px {
+    color: var(--peach);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 800;
+  }
+  
+  .montserrat-medium-midnight-blue-22px {
+    color: var(--midnight-blue);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 500;
+  }
+  
